@@ -21,4 +21,3 @@ urlpatterns = [
     path("teachers/", include("teachers.urls")),
     path("admin/", admin.site.urls),
 ]
-
